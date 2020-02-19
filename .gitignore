@@ -9,6 +9,7 @@ gradle
 gen/
 .idea/
 .idea/*.*
+.gradle/
 
 
 #################
